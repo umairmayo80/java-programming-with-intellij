@@ -20,19 +20,27 @@ public class ConditionalStatements {
         int choice = Integer.parseInt(scanner.nextLine());
         double result = 0;
 
+        char operator = '\0';
+        //close the scanner
+        scanner.close();
+
         switch (choice) {
             case 1:
                 result = num1 + num2;
+                operator = '+';
                 break;
             case 2:
                 result = num1 - num2;
+                operator = '-';
                 break;
             case 3:
                 result = num1 * num2;
+                operator = '*';
                 break;
             case 4:
                 if (num2 != 0) {
                     result = num1 / num2;
+                    operator = '/';
                 } else {
                     System.out.println("Error: Division by zero!");
                     System.exit(0);
@@ -42,7 +50,7 @@ public class ConditionalStatements {
                 System.out.println("Invalid choice!");
                 System.exit(0);
         }
-        System.out.println("Result: " + result);
-        scanner.close();
+
+        System.out.printf("%.2f %c %.2f = %.2f",num1,operator,num2,result);
     }
 }
