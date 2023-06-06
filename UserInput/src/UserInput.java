@@ -24,7 +24,7 @@ public class UserInput {
         System.out.printf("%d is a great age to learn %s.",age, favorite_lng);
 
 
-
+        // Another way to take integer input
         age = Integer.parseInt(scanner.nextLine());
         System.out.println("Again age using Integer.parseInt:"+age);
 
