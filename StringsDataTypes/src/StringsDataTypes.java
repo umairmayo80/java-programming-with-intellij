@@ -36,6 +36,27 @@ public class StringsDataTypes {
         System.out.println(str1.isBlank()); // true
         //same as below
         System.out.println(str2.matches("\\s*")); // true
+        System.out.println(name.toUpperCase());
+
+        String string1 = new String("abc");
+        String string2 = new String("abc");
+
+        System.out.println(string1.equals(string2));
+
+        string2 = "ABC";
+        System.out.println(string1.equalsIgnoreCase(string2));
+
+        // replace to replace subString
+        string1 = "The sky is blue";
+        System.out.println(string1);
+        String updated_string = string1.replace("blue","red");
+        System.out.println(updated_string);
+
+        // To check if a string contains a substring
+        System.out.println(updated_string.contains("red"));
+
+
+
 
     }
 }
