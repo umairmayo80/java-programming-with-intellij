@@ -21,4 +21,5 @@ public class DataTypes{
         System.out.println(num3);
 
     }
+
 }
