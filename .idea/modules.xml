@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayList-in-java/ArrayList-in-java.iml" filepath="$PROJECT_DIR$/ArrayList-in-java/ArrayList-in-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConditionalStatements/ConditionalStatements.iml" filepath="$PROJECT_DIR$/ConditionalStatements/ConditionalStatements.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataTypes/DataTypes.iml" filepath="$PROJECT_DIR$/DataTypes/DataTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java with IntelliJ.iml" filepath="$PROJECT_DIR$/Introduction to Java with IntelliJ.iml" />
