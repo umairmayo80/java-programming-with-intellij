@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/StringsDataTypes/StringsDataTypes.iml" filepath="$PROJECT_DIR$/StringsDataTypes/StringsDataTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/UserInput/UserInput.iml" filepath="$PROJECT_DIR$/UserInput/UserInput.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays-in-java/arrays-in-java.iml" filepath="$PROJECT_DIR$/arrays-in-java/arrays-in-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops-in-java/loops-in-java.iml" filepath="$PROJECT_DIR$/loops-in-java/loops-in-java.iml" />
     </modules>
   </component>
 </project>
