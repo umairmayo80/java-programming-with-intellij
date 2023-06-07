@@ -62,5 +62,15 @@ public class ArrayListsJava {
         // Checking if the ArrayList is empty using ArrayList.isEmpty()
         numbers.remove(Integer.valueOf(20));
         System.out.println(numbers.isEmpty());
+
+        // ArrayList.indexOf method to find the index of an element
+        System.out.println(numbers.indexOf(8)); // output: 1
+
+        // ArrayList.forEach() method to iterate over the list
+        numbers.forEach(number -> {
+            System.out.println(number*2);
+        });
+
+        System.out.println(numbers.toString());
     }
 }
