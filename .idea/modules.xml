@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/UserInput/UserInput.iml" filepath="$PROJECT_DIR$/UserInput/UserInput.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays-in-java/arrays-in-java.iml" filepath="$PROJECT_DIR$/arrays-in-java/arrays-in-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/loops-in-java/loops-in-java.iml" filepath="$PROJECT_DIR$/loops-in-java/loops-in-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-in-java/oop-book-management-system-in-java.iml" filepath="$PROJECT_DIR$/oop-in-java/oop-book-management-system-in-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/while-loop-and-do-while-loop/while-loop-and-do-while-loop.iml" filepath="$PROJECT_DIR$/while-loop-and-do-while-loop/while-loop-and-do-while-loop.iml" />
     </modules>
   </component>

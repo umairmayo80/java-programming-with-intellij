@@ -72,5 +72,6 @@ public class ArrayListsJava {
         });
 
         System.out.println(numbers.toString());
+
     }
 }
