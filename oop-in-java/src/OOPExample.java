@@ -3,6 +3,7 @@ import java.time.LocalDate;
 public class OOPExample {
     public static void main(String[] args){
         User youngerUser = new User("Umair","2000-01-31");
+        User user1 = new User("name", "2001-01-01");
 
 //        youngerUser.name = "Umair"; // Cannot access the private members directly
 //        youngerUser.birthDay = LocalDate.parse("2000-01-31"); // Cannot access the private members directly
@@ -26,6 +27,9 @@ public class OOPExample {
 
         AudioBook audioBook = new AudioBook("ABC","Ali",200,430);
         System.out.println(audioBook);
+
+        CarClass car1 = new CarClass("toyota","ty1",12000);
+        System.out.println(car1);
 
     }
 }
