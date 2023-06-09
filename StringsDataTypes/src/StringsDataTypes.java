@@ -8,8 +8,8 @@ public class StringsDataTypes {
         System.out.println(s);
         // Object string, the background benefit of this is that if a string already
         // exists in String pool then javaVm does not create new string literal and use
-        // the refernce to previous string, but if we create an object like this then a
-        // new string object is created separatly in memory
+        // the reference to previous string, but if we create an object like this then a
+        // new string object is created separately in memory
         String s1 = new String("I Love Allah");
         System.out.println(s1);
 
