@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArrayList-in-java/ArrayList-in-java.iml" filepath="$PROJECT_DIR$/ArrayList-in-java/ArrayList-in-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Patterns-in-java/Behavioral-Design-Patterns.iml" filepath="$PROJECT_DIR$/Design-Patterns-in-java/Behavioral-Design-Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConditionalStatements/ConditionalStatements.iml" filepath="$PROJECT_DIR$/ConditionalStatements/ConditionalStatements.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataTypes/DataTypes.iml" filepath="$PROJECT_DIR$/DataTypes/DataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Patterns-in-java/Design-Patterns-in-java.iml" filepath="$PROJECT_DIR$/Design-Patterns-in-java/Design-Patterns-in-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/File-handling-in-java/File-handling-in-java.iml" filepath="$PROJECT_DIR$/File-handling-in-java/File-handling-in-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generics-in-java/Generics-in-java.iml" filepath="$PROJECT_DIR$/Generics-in-java/Generics-in-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />

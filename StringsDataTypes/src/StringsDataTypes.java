@@ -1,3 +1,5 @@
+import javax.swing.plaf.synth.SynthTextAreaUI;
+
 public class StringsDataTypes {
     public static void main(String[] args) {
         char c = '%';
@@ -55,7 +57,9 @@ public class StringsDataTypes {
         // To check if a string contains a substring
         System.out.println(updated_string.contains("red"));
 
-
+        String ss1 = "asd";
+        String ss2 = "asd";
+        System.out.println("SS eq:"+ ss1.equals(ss2));
 
 
     }
